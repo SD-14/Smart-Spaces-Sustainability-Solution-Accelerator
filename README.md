@@ -1,4 +1,4 @@
-![MSUS Solution Accelerator] (./images/SABanner.png)
+![MSUS Solution Accelerator](./images/SABanner.png)
 
 # Smart-Spaces-Sustainability-Solution-Accelerator
 
